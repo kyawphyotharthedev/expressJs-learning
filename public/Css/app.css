@@ -1,0 +1,18 @@
+body{
+    background: #000;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.text{
+    color: white;
+    font-size: bold;
+    font: 500;
+
+}
+
